@@ -17,4 +17,4 @@ int tamanho_Pilha(Pilha* pi);
 int Pilha_vazia(Pilha* pi);
 int Pilha_cheia(Pilha* pi);
 void imprime_Pilha(Pilha* pi);
-
+Pilha* pilha_copia(Pilha* p);
